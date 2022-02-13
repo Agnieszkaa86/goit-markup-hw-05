@@ -294,7 +294,7 @@ a {
 	align-items: center;
 	justify-content: center;
 	height: 120px;
-	background-color:  #f5f4fa;
+	background-color:  #f5f4fa; 
 	margin-bottom: 30px;
 	border-radius: 4px;
 }
@@ -326,7 +326,9 @@ a {
     letter-spacing: 0.03em;
     color: #757575;
 }
-
+.about-us{
+    padding-top: 0px;
+}
 .about-img-list{
     display: flex;
 }
